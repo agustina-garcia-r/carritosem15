@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ladrillo Estándar",
+        "descripcion": "Ladrillo de tamaño estándar",
+        "cantidad": 100,
+        "costo": 5.0
+    },
+    {
+        "id": 2,
+        "nombre": "Bolsa de Cemento",
+        "descripcion": "Bolsa de cemento Portland",
+        "cantidad": 50,
+        "costo": 15.0
+    },
+    {
+        "id": 3,
+        "nombre": "Tablón de Madera",
+        "descripcion": "Tablón de madera de pino",
+        "cantidad": 30,
+        "costo": 8.5
+    },
+    {
+        "id": 4,
+        "nombre": "Tubo de PVC",
+        "descripcion": "Tubo de PVC de 3 pulgadas",
+        "cantidad": 75,
+        "costo": 3.0
+    },
+    {
+        "id": 5,
+        "nombre": "Herramienta de Jardín",
+        "descripcion": "Pala de jardín resistente",
+        "cantidad": 20,
+        "costo": 12.0
+    }
+]
